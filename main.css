@@ -1,4 +1,10 @@
 body{
   background: aliceblue;
   font-family: monospace;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
+#root{
+  display: flex;
 }
